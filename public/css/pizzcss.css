@@ -1,0 +1,26 @@
+.navColor{
+	background-color: darkred;
+}
+
+.link-items{
+color: #ffff !important;
+padding: 10px;	
+}
+
+
+.carousel-item{
+	height: 70vh;
+}
+
+
+.para{
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+#foot{
+	background-color: darkred;
+	height: 6vh;
+}
